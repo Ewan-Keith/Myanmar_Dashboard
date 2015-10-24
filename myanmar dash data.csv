@@ -1,0 +1,1071 @@
+region,flow,entity,budget_item,source,value
+Ayeyawady,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Other Income,1681.353
+Ayeyawady,income,"High Court, Advocate General, Auditor General",Courts,Other Income,71.304
+Ayeyawady,income,"High Court, Advocate General, Auditor General",Legal Offices,Other Income,0.91
+Ayeyawady,income,"High Court, Advocate General, Auditor General",Accounting Offices,Other Income,0.145
+Ayeyawady,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Ordinary Expenditure,431.78
+Ayeyawady,expenditure,"High Court, Advocate General, Auditor General",Region/State Hluttaw,Ordinary Expenditure,493.901
+Ayeyawady,expenditure,"High Court, Advocate General, Auditor General",Courts,Ordinary Expenditure,683.454
+Ayeyawady,expenditure,"High Court, Advocate General, Auditor General",Legal Offices,Ordinary Expenditure,285.258
+Ayeyawady,expenditure,"High Court, Advocate General, Auditor General",Accounting Offices,Ordinary Expenditure,703.645
+Ayeyawady,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Grants,1681.353
+Ayeyawady,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Capital Expenditure,215.6
+Ayeyawady,expenditure,"High Court, Advocate General, Auditor General",Courts,Capital Expenditure,47.97
+Ayeyawady,income,"Ministries, Administrative Departments, Municipals",Excise Revenue,Tax Revenue,712.812
+Ayeyawady,income,"Ministries, Administrative Departments, Municipals",Land Revenue,Tax Revenue,33.356
+Ayeyawady,income,"Ministries, Administrative Departments, Municipals",Embankment Tax,Tax Revenue,7.781
+Ayeyawady,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Forest,Tax Revenue,400.573
+Ayeyawady,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Minerals ,Tax Revenue,11.787
+Ayeyawady,income,"Ministries, Administrative Departments, Municipals",Lakes/streams tax,Tax Revenue,3377.955
+Ayeyawady,income,"Ministries, Administrative Departments, Municipals",Supervision cost for amending land revenues,Tax Revenue,3339.483
+Ayeyawady,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,511.397
+Ayeyawady,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,168.891
+Ayeyawady,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State Owned Enterprises,159.626
+Ayeyawady,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,12.242
+Ayeyawady,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,0.031
+Ayeyawady,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,4.92
+Ayeyawady,income,"Ministries, Administrative Departments, Municipals",Water Resources Utilization Department,Other Income,31.141
+Ayeyawady,income,"Ministries, Administrative Departments, Municipals",Agriculture Department,Other Income,32
+Ayeyawady,income,"Ministries, Administrative Departments, Municipals",Fisheries Department,Other Income,19.81
+Ayeyawady,income,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Other Income,2.872
+Ayeyawady,income,"Ministries, Administrative Departments, Municipals",Forestry,Other Income,20.416
+Ayeyawady,income,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Other Income,0.035
+Ayeyawady,income,"Ministries, Administrative Departments, Municipals",Planning Department,Other Income,0.038
+Ayeyawady,income,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Other Income,0.47
+Ayeyawady,income,"Ministries, Administrative Departments, Municipals",Public Works,Other Income,66.791
+Ayeyawady,income,"Ministries, Administrative Departments, Municipals",Central Inland Freight Handling Committee,Other Income,0.002
+Ayeyawady,income,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Other Income,6571.267
+Ayeyawady,income,"Ministries, Administrative Departments, Municipals",Budget Department,Union Govt's Support Income,48175.258
+Ayeyawady,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Ordinary Expenditure,7388.101
+Ayeyawady,expenditure,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Ordinary Expenditure,118.659
+Ayeyawady,expenditure,"Ministries, Administrative Departments, Municipals",Cooperative Department,Ordinary Expenditure,725.693
+Ayeyawady,expenditure,"Ministries, Administrative Departments, Municipals",Water Resources Utilization Department,Ordinary Expenditure,507.127
+Ayeyawady,expenditure,"Ministries, Administrative Departments, Municipals",Agriculture Department,Ordinary Expenditure,1514.833
+Ayeyawady,expenditure,"Ministries, Administrative Departments, Municipals",Industrial Crop Development Department,Ordinary Expenditure,27.617
+Ayeyawady,expenditure,"Ministries, Administrative Departments, Municipals",Fisheries Department,Ordinary Expenditure,475.671
+Ayeyawady,expenditure,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Ordinary Expenditure,210.343
+Ayeyawady,expenditure,"Ministries, Administrative Departments, Municipals",Forestry,Ordinary Expenditure,763.766
+Ayeyawady,expenditure,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Ordinary Expenditure,249.661
+Ayeyawady,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Ordinary Expenditure,49.155
+Ayeyawady,expenditure,"Ministries, Administrative Departments, Municipals",Planning Department,Ordinary Expenditure,353.047
+Ayeyawady,expenditure,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Ordinary Expenditure,120.957
+Ayeyawady,expenditure,"Ministries, Administrative Departments, Municipals",Public Works,Ordinary Expenditure,3909.492
+Ayeyawady,expenditure,"Ministries, Administrative Departments, Municipals",Central Inland Freight Handling Committee,Ordinary Expenditure,45.974
+Ayeyawady,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Ordinary Expenditure,3079.666
+Ayeyawady,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Capital Expenditure,1314.575
+Ayeyawady,expenditure,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Capital Expenditure,138.491
+Ayeyawady,expenditure,"Ministries, Administrative Departments, Municipals",Agriculture Department,Capital Expenditure,26.28
+Ayeyawady,expenditure,"Ministries, Administrative Departments, Municipals",Fisheries Department,Capital Expenditure,80.168
+Ayeyawady,expenditure,"Ministries, Administrative Departments, Municipals",Forestry,Capital Expenditure,47.62
+Ayeyawady,expenditure,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Capital Expenditure,183.288
+Ayeyawady,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Capital Expenditure,5.08
+Ayeyawady,expenditure,"Ministries, Administrative Departments, Municipals",Planning Department,Capital Expenditure,42.837
+Ayeyawady,expenditure,"Ministries, Administrative Departments, Municipals",Public Works,Capital Expenditure,35697.641
+Ayeyawady,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Capital Expenditure,4149.039
+Ayeyawady,income,State Owned Enterprises,Myanma Motion Picture Enterprise,Other Income,43.887
+Ayeyawady,income,State Owned Enterprises,Myanma Salt & Marine Chemical Enterprise,Other Income,86.935
+Ayeyawady,income,State Owned Enterprises,Public Works,Other Income,34387.707
+Ayeyawady,expenditure,State Owned Enterprises,Myanma Motion Picture Enterprise,Ordinary Expenditure,38.64
+Ayeyawady,expenditure,State Owned Enterprises,Myanma Salt & Marine Chemical Enterprise,Ordinary Expenditure,81.817
+Ayeyawady,expenditure,State Owned Enterprises,Public Works,Ordinary Expenditure,33998.126
+Ayeyawady,expenditure,State Owned Enterprises,Myanma Salt & Marine Chemical Enterprise,Capital Expenditure,46.87
+Bago,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Other Income,1018.749
+Bago,income,"High Court, Advocate General, Auditor General",Courts,Other Income,36.181
+Bago,income,"High Court, Advocate General, Auditor General",Legal Offices,Other Income,0.553
+Bago,income,"High Court, Advocate General, Auditor General",Accounting Offices,Other Income,0.556
+Bago,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Capital Income,1000
+Bago,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Capital Income,1000
+Bago,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Ordinary Expenditure,451.988
+Bago,expenditure,"High Court, Advocate General, Auditor General",Region/State Hluttaw,Ordinary Expenditure,199.287
+Bago,expenditure,"High Court, Advocate General, Auditor General",Courts,Ordinary Expenditure,754.976
+Bago,expenditure,"High Court, Advocate General, Auditor General",Legal Offices,Ordinary Expenditure,307.096
+Bago,expenditure,"High Court, Advocate General, Auditor General",Accounting Offices,Ordinary Expenditure,798.451
+Bago,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Grants,2017.749
+Bago,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Capital Expenditure,547
+Bago,expenditure,"High Court, Advocate General, Auditor General",Region/State Hluttaw,Capital Expenditure,5
+Bago,expenditure,"High Court, Advocate General, Auditor General",Courts,Capital Expenditure,321.093
+Bago,expenditure,"High Court, Advocate General, Auditor General",Accounting Offices,Capital Expenditure,21.4
+Bago,income,"Ministries, Administrative Departments, Municipals",Excise Revenue,Tax Revenue,624.378
+Bago,income,"Ministries, Administrative Departments, Municipals",Land Revenue,Tax Revenue,2354.629
+Bago,income,"Ministries, Administrative Departments, Municipals",Embankment Tax,Tax Revenue,1.619
+Bago,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Forest,Tax Revenue,241.88
+Bago,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Minerals ,Tax Revenue,15.938
+Bago,income,"Ministries, Administrative Departments, Municipals",Lakes/streams tax,Tax Revenue,901.363
+Bago,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,494.873
+Bago,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,193.791
+Bago,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State-Owned Enterprises,98.289
+Bago,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,6.21
+Bago,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,0.016
+Bago,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,4.001
+Bago,income,"Ministries, Administrative Departments, Municipals",Small Enterprises,Other Income,0.41
+Bago,income,"Ministries, Administrative Departments, Municipals",Water Resources Utilization Department,Other Income,65.871
+Bago,income,"Ministries, Administrative Departments, Municipals",Agriculture Department,Other Income,18
+Bago,income,"Ministries, Administrative Departments, Municipals",Industrial Crop Development Department,Other Income,27.113
+Bago,income,"Ministries, Administrative Departments, Municipals",Fisheries Department,Other Income,30.065
+Bago,income,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Other Income,10.32
+Bago,income,"Ministries, Administrative Departments, Municipals",Bee Department,Other Income,0.17
+Bago,income,"Ministries, Administrative Departments, Municipals",Forestry,Other Income,27.34
+Bago,income,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Other Income,0.01
+Bago,income,"Ministries, Administrative Departments, Municipals",Budget Department,Other Income,0.24
+Bago,income,"Ministries, Administrative Departments, Municipals",Planning Department,Other Income,0.04
+Bago,income,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Other Income,0.406
+Bago,income,"Ministries, Administrative Departments, Municipals",Public Works,Other Income,143.786
+Bago,income,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Other Income,8126.59
+Bago,income,"Ministries, Administrative Departments, Municipals",Budget Department,Union Govt's Support Income,31475.908
+Bago,income,"Ministries, Administrative Departments, Municipals",Budget Department,Borrowed Income,11.099
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Ordinary Expenditure,5741.139
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Ordinary Expenditure,118.404
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Cooperative Department,Ordinary Expenditure,724.122
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Small Enterprises,Ordinary Expenditure,12.751
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Water Resources Utilization Department,Ordinary Expenditure,767.457
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Agriculture Department,Ordinary Expenditure,1797.324
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Industrial Crop Development Department,Ordinary Expenditure,742.547
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Fisheries Department,Ordinary Expenditure,267.266
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Ordinary Expenditure,229.945
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Bee Department,Ordinary Expenditure,36.581
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Forestry,Ordinary Expenditure,1528.637
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Ordinary Expenditure,231.414
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Ordinary Expenditure,48.167
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Planning Department,Ordinary Expenditure,373.03
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Ordinary Expenditure,69.158
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Public Works,Ordinary Expenditure,8500
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Central Inland Freight Handling Committee,Ordinary Expenditure,6.954
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Ordinary Expenditure,3816.474
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Grants,15
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Capital Expenditure,507.139
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Capital Expenditure,60
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Cooperative Department,Capital Expenditure,25.48
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Small Enterprises,Capital Expenditure,0.18
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Industrial Crop Development Department,Capital Expenditure,82.7
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Fisheries Department,Capital Expenditure,114.994
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Capital Expenditure,3.315
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Capital Expenditure,5.367
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Planning Department,Capital Expenditure,100.054
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Capital Expenditure,53.696
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Public Works,Capital Expenditure,10517.18
+Bago,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Capital Expenditure,5204.268
+Bago,income,State Owned Enterprises,Myanma Motion Picture Enterprise,Other Income,50
+Bago,income,State Owned Enterprises,Public Works,Other Income,19026.117
+Bago,expenditure,State Owned Enterprises,Myanma Motion Picture Enterprise,Ordinary Expenditure,37.94
+Bago,expenditure,State Owned Enterprises,Public Works,Ordinary Expenditure,18843.698
+Chin,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Other Income,63.364
+Chin,income,"High Court, Advocate General, Auditor General",Courts,Other Income,1.906
+Chin,income,"High Court, Advocate General, Auditor General",Legal Offices,Other Income,0.1
+Chin,income,"High Court, Advocate General, Auditor General",Accounting Offices,Other Income,0.573
+Chin,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Capital Income,1000
+Chin,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Union Govt's Support Income,1000
+Chin,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Ordinary Expenditure,397.695
+Chin,expenditure,"High Court, Advocate General, Auditor General",Region/State Hluttaw,Ordinary Expenditure,53.198
+Chin,expenditure,"High Court, Advocate General, Auditor General",Courts,Ordinary Expenditure,373.494
+Chin,expenditure,"High Court, Advocate General, Auditor General",Legal Offices,Ordinary Expenditure,236.868
+Chin,expenditure,"High Court, Advocate General, Auditor General",Accounting Offices,Ordinary Expenditure,541.886
+Chin,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Grants,1000
+Chin,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Capital Expenditure,7917.65
+Chin,expenditure,"High Court, Advocate General, Auditor General",Courts,Capital Expenditure,60.082
+Chin,expenditure,"High Court, Advocate General, Auditor General",Legal Offices,Capital Expenditure,3.5
+Chin,expenditure,"High Court, Advocate General, Auditor General",Accounting Offices,Capital Expenditure,26.26
+Chin,income,"Ministries, Administrative Departments, Municipals",Excise Revenue,Tax Revenue,35.863
+Chin,income,"Ministries, Administrative Departments, Municipals",Land Revenue,Tax Revenue,109.221
+Chin,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Forest,Tax Revenue,13.274
+Chin,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Minerals ,Tax Revenue,0.088
+Chin,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,67.556
+Chin,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,5.544
+Chin,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State-Owned Enterprises,139.635
+Chin,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,3.404
+Chin,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,0.034
+Chin,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,0.016
+Chin,income,"Ministries, Administrative Departments, Municipals",Small Enterprises,Other Income,0.583
+Chin,income,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Other Income,0.15
+Chin,income,"Ministries, Administrative Departments, Municipals",Forestry,Other Income,1.26
+Chin,income,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Other Income,1.14
+Chin,income,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Other Income,0.615
+Chin,income,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Other Income,329.798
+Chin,income,"Ministries, Administrative Departments, Municipals",Budget Department,Union Govt's Support Income,31236.924
+Chin,income,"Ministries, Administrative Departments, Municipals",Budget Department,Borrowed Income,1856.53
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Ordinary Expenditure,3244.447
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Ordinary Expenditure,140.058
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",Cooperative Department,Ordinary Expenditure,417.997
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",Small Enterprises,Ordinary Expenditure,36.153
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",Agriculture Department,Ordinary Expenditure,904.498
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Ordinary Expenditure,183.236
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",Forestry,Ordinary Expenditure,634.449
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Ordinary Expenditure,148.608
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Ordinary Expenditure,70.724
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",Planning Department,Ordinary Expenditure,284.236
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Ordinary Expenditure,105.65
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",Public Works,Ordinary Expenditure,4238.249
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Ordinary Expenditure,443.115
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Capital Expenditure,1329
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Capital Expenditure,66.268
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",Cooperative Department,Capital Expenditure,0.79
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",Small Enterprises,Capital Expenditure,0.36
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",Agriculture Department,Capital Expenditure,38.725
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Capital Expenditure,43.855
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",Forestry,Capital Expenditure,8.1
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Capital Expenditure,3.25
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Capital Expenditure,53.91
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",Planning Department,Capital Expenditure,159.374
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Capital Expenditure,2.36
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",Public Works,Capital Expenditure,9863.22
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Capital Expenditure,1520.1
+Chin,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Grants,20
+Chin,income,State Owned Enterprises,Myanma Motion Picture Enterprise,Other Income,0.4
+Chin,income,State Owned Enterprises,Public Works,Other Income,14101.469
+Chin,expenditure,State Owned Enterprises,Myanma Motion Picture Enterprise,Ordinary Expenditure,5.84
+Chin,expenditure,State Owned Enterprises,Public Works,Ordinary Expenditure,13849.652
+Chin,expenditure,State Owned Enterprises,Public Works,Capital Expenditure,542.59
+Kachin,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Tax Revenue,35.311
+Kachin,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Other Income,360.713
+Kachin,income,"High Court, Advocate General, Auditor General",Courts,Other Income,17.51
+Kachin,income,"High Court, Advocate General, Auditor General",Legal Offices,Other Income,0.144
+Kachin,income,"High Court, Advocate General, Auditor General",Accounting Offices,Other Income,0.11
+Kachin,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Capital Income,1000
+Kachin,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Union Govt's Support Income,1000
+Kachin,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Ordinary Expenditure,219.164
+Kachin,expenditure,"High Court, Advocate General, Auditor General",Region/State Hluttaw,Ordinary Expenditure,235.521
+Kachin,expenditure,"High Court, Advocate General, Auditor General",Courts,Ordinary Expenditure,475.44
+Kachin,expenditure,"High Court, Advocate General, Auditor General",Legal Offices,Ordinary Expenditure,214.665
+Kachin,expenditure,"High Court, Advocate General, Auditor General",Accounting Offices,Ordinary Expenditure,407.977
+Kachin,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Grants,1360.713
+Kachin,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Capital Expenditure,267.6
+Kachin,expenditure,"High Court, Advocate General, Auditor General",Region/State Hluttaw,Capital Expenditure,51.4
+Kachin,expenditure,"High Court, Advocate General, Auditor General",Courts,Capital Expenditure,316.254
+Kachin,expenditure,"High Court, Advocate General, Auditor General",Legal Offices,Capital Expenditure,49.27
+Kachin,income,"Ministries, Administrative Departments, Municipals",Excise Revenue,Tax Revenue,190.932
+Kachin,income,"Ministries, Administrative Departments, Municipals",Land Revenue,Tax Revenue,458.63
+Kachin,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Forest,Tax Revenue,125.304
+Kachin,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Minerals ,Tax Revenue,1.122
+Kachin,income,"Ministries, Administrative Departments, Municipals",Lakes/streams tax,Tax Revenue,117.585
+Kachin,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,447.87
+Kachin,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,78.215
+Kachin,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State-Owned Enterprises,131.653
+Kachin,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,6.965
+Kachin,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,0.032
+Kachin,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,2.865
+Kachin,income,"Ministries, Administrative Departments, Municipals",Small Enterprises,Other Income,0.58
+Kachin,income,"Ministries, Administrative Departments, Municipals",Water Resources Utilization Department,Other Income,0.09
+Kachin,income,"Ministries, Administrative Departments, Municipals",Agriculture Department,Other Income,12.705
+Kachin,income,"Ministries, Administrative Departments, Municipals",Fisheries Department,Other Income,4.3
+Kachin,income,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Other Income,1.422
+Kachin,income,"Ministries, Administrative Departments, Municipals",Bee Department,Other Income,0.37
+Kachin,income,"Ministries, Administrative Departments, Municipals",Forestry,Other Income,11.1
+Kachin,income,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Other Income,40.308
+Kachin,income,"Ministries, Administrative Departments, Municipals",Budget Department,Other Income,0.026
+Kachin,income,"Ministries, Administrative Departments, Municipals",Planning Department,Other Income,0.016
+Kachin,income,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Other Income,0.139
+Kachin,income,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Other Income,5445.868
+Kachin,income,"Ministries, Administrative Departments, Municipals",Budget Department,Union Govt's Support Income,28792.329
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Ordinary Expenditure,3530.912
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Ordinary Expenditure,86.939
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Cooperative Department,Ordinary Expenditure,258.185
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Small Enterprises,Ordinary Expenditure,11.925
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Water Resources Utilization Department,Ordinary Expenditure,57.659
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Agriculture Department,Ordinary Expenditure,607.852
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Industrial Crop Development Department,Ordinary Expenditure,69.516
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Fisheries Department,Ordinary Expenditure,95.312
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Ordinary Expenditure,201.118
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Bee Department,Ordinary Expenditure,40.26
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Forestry,Ordinary Expenditure,507.053
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Ordinary Expenditure,188.333
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Ordinary Expenditure,48.973
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Planning Department,Ordinary Expenditure,250.144
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Ordinary Expenditure,130.875
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Public Works,Ordinary Expenditure,7679.641
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Central Inland Freight Handling Committee,Ordinary Expenditure,9.562
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Ordinary Expenditure,2196.165
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Capital Expenditure,3247.131
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Cooperative Department,Capital Expenditure,0.7
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Small Enterprises,Capital Expenditure,11.18
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Agriculture Department,Capital Expenditure,7.975
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Industrial Crop Development Department,Capital Expenditure,192
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Fisheries Department,Capital Expenditure,6.494
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Capital Expenditure,46.65
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Bee Department,Capital Expenditure,6
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Forestry,Capital Expenditure,17.71
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Capital Expenditure,280.427
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Capital Expenditure,305.912
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Planning Department,Capital Expenditure,2.68
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Capital Expenditure,926.6
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Public Works,Capital Expenditure,9278.36
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Capital Expenditure,3650.525
+Kachin,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Grants,20
+Kachin,income,State Owned Enterprises,Myanma Motion Picture Enterprise,Other Income,9
+Kachin,income,State Owned Enterprises,Myanma Salt & Marine Chemical Enterprise,Other Income,2.94
+Kachin,income,State Owned Enterprises,Public Works,Other Income,17148.001
+Kachin,expenditure,State Owned Enterprises,Myanma Motion Picture Enterprise,Ordinary Expenditure,11.19
+Kachin,expenditure,State Owned Enterprises,Myanma Salt & Marine Chemical Enterprise,Ordinary Expenditure,14.97
+Kachin,expenditure,State Owned Enterprises,Public Works,Ordinary Expenditure,16849.224
+Kayah,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Other Income,213.448
+Kayah,income,"High Court, Advocate General, Auditor General",Courts,Other Income,0.453
+Kayah,income,"High Court, Advocate General, Auditor General",Legal Offices,Other Income,0.022
+Kayah,income,"High Court, Advocate General, Auditor General",Accounting Offices,Other Income,0.003
+Kayah,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Union Govt's Support Income,1000
+Kayah,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Ordinary Expenditure,2187.989
+Kayah,expenditure,"High Court, Advocate General, Auditor General",Region/State Hluttaw,Ordinary Expenditure,41.393
+Kayah,expenditure,"High Court, Advocate General, Auditor General",Courts,Ordinary Expenditure,172.992
+Kayah,expenditure,"High Court, Advocate General, Auditor General",Legal Offices,Ordinary Expenditure,116.964
+Kayah,expenditure,"High Court, Advocate General, Auditor General",Accounting Offices,Ordinary Expenditure,2191.432
+Kayah,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Capital Expenditure,15.62
+Kayah,expenditure,"High Court, Advocate General, Auditor General",Region/State Hluttaw,Capital Expenditure,2.4
+Kayah,expenditure,"High Court, Advocate General, Auditor General",Courts,Capital Expenditure,36.2
+Kayah,expenditure,"High Court, Advocate General, Auditor General",Accounting Offices,Capital Expenditure,5.5
+Kayah,income,"Ministries, Administrative Departments, Municipals",Excise Revenue,Tax Revenue,23.96
+Kayah,income,"Ministries, Administrative Departments, Municipals",Land Revenue,Tax Revenue,83.45
+Kayah,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Forest,Tax Revenue,25.558
+Kayah,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Minerals ,Tax Revenue,0.3
+Kayah,income,"Ministries, Administrative Departments, Municipals",Lakes/streams tax,Tax Revenue,0.558
+Kayah,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,45.823
+Kayah,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,8.933
+Kayah,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State-Owned Enterprises,105.786
+Kayah,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,0.865
+Kayah,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,0.029
+Kayah,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,0.607
+Kayah,income,"Ministries, Administrative Departments, Municipals",Small Enterprises,Other Income,0.2
+Kayah,income,"Ministries, Administrative Departments, Municipals",Water Resources Utilization Department,Other Income,0.17
+Kayah,income,"Ministries, Administrative Departments, Municipals",Fisheries Department,Other Income,0.011
+Kayah,income,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Other Income,0.127
+Kayah,income,"Ministries, Administrative Departments, Municipals",Bee Department,Other Income,7.022
+Kayah,income,"Ministries, Administrative Departments, Municipals",Forestry,Other Income,0.93
+Kayah,income,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Other Income,1.26
+Kayah,income,"Ministries, Administrative Departments, Municipals",Planning Department,Other Income,0.018
+Kayah,income,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Other Income,3.59
+Kayah,income,"Ministries, Administrative Departments, Municipals",Public Works,Other Income,0.08
+Kayah,income,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Other Income,637.515
+Kayah,income,"Ministries, Administrative Departments, Municipals",Budget Department,Union Govt's Support Income,13606.879
+Kayah,income,"Ministries, Administrative Departments, Municipals",Budget Department,Borrowed Income,138.732
+Kayah,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Ordinary Expenditure,1304.42
+Kayah,expenditure,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Ordinary Expenditure,71.946
+Kayah,expenditure,"Ministries, Administrative Departments, Municipals",Cooperative Department,Ordinary Expenditure,120.444
+Kayah,expenditure,"Ministries, Administrative Departments, Municipals",Small Enterprises,Ordinary Expenditure,11.326
+Kayah,expenditure,"Ministries, Administrative Departments, Municipals",Water Resources Utilization Department,Ordinary Expenditure,92.182
+Kayah,expenditure,"Ministries, Administrative Departments, Municipals",Agriculture Department,Ordinary Expenditure,323.566
+Kayah,expenditure,"Ministries, Administrative Departments, Municipals",Fisheries Department,Ordinary Expenditure,12.122
+Kayah,expenditure,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Ordinary Expenditure,38.158
+Kayah,expenditure,"Ministries, Administrative Departments, Municipals",Bee Department,Ordinary Expenditure,25.966
+Kayah,expenditure,"Ministries, Administrative Departments, Municipals",Forestry,Ordinary Expenditure,189.012
+Kayah,expenditure,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Ordinary Expenditure,86.098
+Kayah,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Ordinary Expenditure,44.521
+Kayah,expenditure,"Ministries, Administrative Departments, Municipals",Planning Department,Ordinary Expenditure,133.557
+Kayah,expenditure,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Ordinary Expenditure,86.604
+Kayah,expenditure,"Ministries, Administrative Departments, Municipals",Public Works,Ordinary Expenditure,4093.46
+Kayah,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Ordinary Expenditure,506.279
+Kayah,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Grants,20
+Kayah,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Capital Expenditure,1014.065
+Kayah,expenditure,"Ministries, Administrative Departments, Municipals",Small Enterprises,Capital Expenditure,2.78
+Kayah,expenditure,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Capital Expenditure,34.57
+Kayah,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Capital Expenditure,5.139
+Kayah,expenditure,"Ministries, Administrative Departments, Municipals",Planning Department,Capital Expenditure,48.45
+Kayah,expenditure,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Capital Expenditure,310.7
+Kayah,expenditure,"Ministries, Administrative Departments, Municipals",Public Works,Capital Expenditure,4215.75
+Kayah,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Capital Expenditure,405.72
+Kayah,income,State Owned Enterprises,Myanma Motion Picture Enterprise,Other Income,6.265
+Kayah,income,State Owned Enterprises,Public Works,Other Income,8311.152
+Kayah,expenditure,State Owned Enterprises,Myanma Motion Picture Enterprise,Ordinary Expenditure,10.714
+Kayah,expenditure,State Owned Enterprises,Public Works,Ordinary Expenditure,8100.547
+Kayah,expenditure,State Owned Enterprises,Public Works,Capital Expenditure,125.16
+Kayin,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Other Income,1492.883
+Kayin,income,"High Court, Advocate General, Auditor General",Courts,Other Income,5.72
+Kayin,income,"High Court, Advocate General, Auditor General",Legal Offices,Other Income,0.03
+Kayin,income,"High Court, Advocate General, Auditor General",Accounting Offices,Other Income,0.062
+Kayin,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Ordinary Expenditure,488.364
+Kayin,expenditure,"High Court, Advocate General, Auditor General",Region/State Hluttaw,Ordinary Expenditure,189.662
+Kayin,expenditure,"High Court, Advocate General, Auditor General",Courts,Ordinary Expenditure,237.101
+Kayin,expenditure,"High Court, Advocate General, Auditor General",Legal Offices,Ordinary Expenditure,134.652
+Kayin,expenditure,"High Court, Advocate General, Auditor General",Accounting Offices,Ordinary Expenditure,261.617
+Kayin,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Grants,1492.883
+Kayin,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Capital Expenditure,732.4
+Kayin,expenditure,"High Court, Advocate General, Auditor General",Courts,Capital Expenditure,156.35
+Kayin,expenditure,"High Court, Advocate General, Auditor General",Legal Offices,Capital Expenditure,11.335
+Kayin,expenditure,"High Court, Advocate General, Auditor General",Accounting Offices,Capital Expenditure,22
+Kayin,income,"Ministries, Administrative Departments, Municipals",Excise Revenue,Tax Revenue,83.133
+Kayin,income,"Ministries, Administrative Departments, Municipals",Land Revenue,Tax Revenue,409.043
+Kayin,income,"Ministries, Administrative Departments, Municipals",Embankment Tax,Tax Revenue,0.045
+Kayin,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Forest,Tax Revenue,297.372
+Kayin,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Minerals ,Tax Revenue,1.75
+Kayin,income,"Ministries, Administrative Departments, Municipals",Lakes/streams tax,Tax Revenue,26.037
+Kayin,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,92.979
+Kayin,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,7.506
+Kayin,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State-Owned Enterprises,37.063
+Kayin,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,8.335
+Kayin,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,0.042
+Kayin,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,0.016
+Kayin,income,"Ministries, Administrative Departments, Municipals",Small Enterprises,Other Income,0.16
+Kayin,income,"Ministries, Administrative Departments, Municipals",Water Resources Utilization Department,Other Income,10.85
+Kayin,income,"Ministries, Administrative Departments, Municipals",Agriculture Department,Other Income,5.33
+Kayin,income,"Ministries, Administrative Departments, Municipals",Fisheries Department,Other Income,3.937
+Kayin,income,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Other Income,0.487
+Kayin,income,"Ministries, Administrative Departments, Municipals",Forestry,Other Income,8.412
+Kayin,income,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Other Income,0.035
+Kayin,income,"Ministries, Administrative Departments, Municipals",Planning Department,Other Income,0.015
+Kayin,income,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Other Income,0.266
+Kayin,income,"Ministries, Administrative Departments, Municipals",Public Works,Other Income,0.85
+Kayin,income,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Other Income,1446.165
+Kayin,income,"Ministries, Administrative Departments, Municipals",Budget Department,Union Govt's Support Income,16389.921
+Kayin,income,"Ministries, Administrative Departments, Municipals",Budget Department,Borrowed Income,245.711
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Ordinary Expenditure,2047.896
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Ordinary Expenditure,73.221
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Cooperative Department,Ordinary Expenditure,165.096
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Small Enterprises,Ordinary Expenditure,10.661
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Water Resources Utilization Department,Ordinary Expenditure,165.926
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Agriculture Department,Ordinary Expenditure,565.533
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Industrial Crop Development Department,Ordinary Expenditure,69.33
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Fisheries Department,Ordinary Expenditure,36.138
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Ordinary Expenditure,112.774
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Forestry,Ordinary Expenditure,453.56
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Ordinary Expenditure,151.806
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Ordinary Expenditure,46.643
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Planning Department,Ordinary Expenditure,142.572
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Ordinary Expenditure,56.497
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Public Works,Ordinary Expenditure,7244.693
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Central Inland Freight Handling Committee,Ordinary Expenditure,6
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Ordinary Expenditure,909.582
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Grants,20
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Capital Expenditure,905.647
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Capital Expenditure,4.972
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Cooperative Department,Capital Expenditure,31
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Small Enterprises,Capital Expenditure,0.18
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Agriculture Department,Capital Expenditure,155.942
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Fisheries Department,Capital Expenditure,65.97
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Capital Expenditure,20
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Forestry,Capital Expenditure,19.81
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Capital Expenditure,90
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Capital Expenditure,6.357
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Capital Expenditure,199.376
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Public Works,Capital Expenditure,2187.83
+Kayin,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Capital Expenditure,812.172
+Kayin,income,State Owned Enterprises,Myanma Motion Picture Enterprise,Other Income,16
+Kayin,income,State Owned Enterprises,Public Works,Other Income,9437.523
+Kayin,expenditure,State Owned Enterprises,Myanma Motion Picture Enterprise,Ordinary Expenditure,18.232
+Kayin,expenditure,State Owned Enterprises,Public Works,Ordinary Expenditure,9404.193
+Kayin,expenditure,State Owned Enterprises,Public Works,Capital Expenditure,101.705
+Magway,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Other Income,1935.138
+Magway,income,"High Court, Advocate General, Auditor General",Courts,Other Income,19.015
+Magway,income,"High Court, Advocate General, Auditor General",Legal Offices,Other Income,0.086
+Magway,income,"High Court, Advocate General, Auditor General",Accounting Offices,Other Income,0.176
+Magway,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Ordinary Expenditure,630.612
+Magway,expenditure,"High Court, Advocate General, Auditor General",Region/State Hluttaw,Ordinary Expenditure,232.599
+Magway,expenditure,"High Court, Advocate General, Auditor General",Courts,Ordinary Expenditure,653.04
+Magway,expenditure,"High Court, Advocate General, Auditor General",Legal Offices,Ordinary Expenditure,328.142
+Magway,expenditure,"High Court, Advocate General, Auditor General",Accounting Offices,Ordinary Expenditure,726.302
+Magway,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Grants,1935.138
+Magway,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Capital Expenditure,236.23
+Magway,expenditure,"High Court, Advocate General, Auditor General",Courts,Capital Expenditure,95.42
+Magway,expenditure,"High Court, Advocate General, Auditor General",Accounting Offices,Capital Expenditure,110.14
+Magway,income,"Ministries, Administrative Departments, Municipals",Excise Revenue,Tax Revenue,441.768
+Magway,income,"Ministries, Administrative Departments, Municipals",Land Revenue,Tax Revenue,1698.305
+Magway,income,"Ministries, Administrative Departments, Municipals",Embankment Tax,Tax Revenue,0.003
+Magway,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Forest,Tax Revenue,124.343
+Magway,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Minerals ,Tax Revenue,11.085
+Magway,income,"Ministries, Administrative Departments, Municipals",Lakes/streams tax,Tax Revenue,36.45
+Magway,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,311.428
+Magway,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,108.093
+Magway,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State-Owned Enterprises,153.136
+Magway,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,4.428
+Magway,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,0.023
+Magway,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,6.579
+Magway,income,"Ministries, Administrative Departments, Municipals",Small Enterprises,Other Income,0.17
+Magway,income,"Ministries, Administrative Departments, Municipals",Water Resources Utilization Department,Other Income,2.999
+Magway,income,"Ministries, Administrative Departments, Municipals",Agriculture Department,Other Income,0.145
+Magway,income,"Ministries, Administrative Departments, Municipals",Industrial Crop Development Department,Other Income,259.82
+Magway,income,"Ministries, Administrative Departments, Municipals",Fisheries Department,Other Income,0.58
+Magway,income,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Other Income,6.618
+Magway,income,"Ministries, Administrative Departments, Municipals",Bee Department,Other Income,23.9
+Magway,income,"Ministries, Administrative Departments, Municipals",Forestry,Other Income,14.2
+Magway,income,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Other Income,0.035
+Magway,income,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Other Income,0.341
+Magway,income,"Ministries, Administrative Departments, Municipals",Public Works,Other Income,24.246
+Magway,income,"Ministries, Administrative Departments, Municipals",Central Inland Freight Handling Committee,Other Income,0.002
+Magway,income,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Other Income,6531.495
+Magway,income,"Ministries, Administrative Departments, Municipals",Budget Department,Union Govt's Support Income,92000.016
+Magway,income,"Ministries, Administrative Departments, Municipals",Budget Department,Borrowed Income,12363.574
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Ordinary Expenditure,5441.948
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Ordinary Expenditure,114.223
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",Cooperative Department,Ordinary Expenditure,656.567
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",Small Enterprises,Ordinary Expenditure,17.017
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",Water Resources Utilization Department,Ordinary Expenditure,2107.175
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",Agriculture Department,Ordinary Expenditure,1362.003
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",Industrial Crop Development Department,Ordinary Expenditure,424.046
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",Fisheries Department,Ordinary Expenditure,68.562
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Ordinary Expenditure,198.116
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",Bee Department,Ordinary Expenditure,64.679
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",Forestry,Ordinary Expenditure,1864.333
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Ordinary Expenditure,219.617
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Ordinary Expenditure,46.963
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",Planning Department,Ordinary Expenditure,395.466
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Ordinary Expenditure,102.611
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",Public Works,Ordinary Expenditure,26943.509
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",Central Inland Freight Handling Committee,Ordinary Expenditure,24.461
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Ordinary Expenditure,2969.584
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Grants,15
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Capital Expenditure,1054.751
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Capital Expenditure,36.16
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",Small Enterprises,Capital Expenditure,0.18
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",Forestry,Capital Expenditure,23.245
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Capital Expenditure,21.15
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Capital Expenditure,4.892
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",Planning Department,Capital Expenditure,61.5
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Capital Expenditure,334.055
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",Public Works,Capital Expenditure,50213.755
+Magway,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Capital Expenditure,15458.069
+Magway,income,State Owned Enterprises,Myanma Motion Picture Enterprise,Other Income,25
+Magway,income,State Owned Enterprises,Public Works,Other Income,25010
+Magway,expenditure,State Owned Enterprises,Myanma Motion Picture Enterprise,Ordinary Expenditure,20.098
+Magway,expenditure,State Owned Enterprises,Public Works,Ordinary Expenditure,24576.183
+Magway,expenditure,State Owned Enterprises,Public Works,Capital Expenditure,1325.656
+Mandalay,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Tax Revenue,7.538
+Mandalay,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Other Income,2185.726
+Mandalay,income,"High Court, Advocate General, Auditor General",Courts,Other Income,156.892
+Mandalay,income,"High Court, Advocate General, Auditor General",Legal Offices,Other Income,2.65
+Mandalay,income,"High Court, Advocate General, Auditor General",Accounting Offices,Other Income,0.499
+Mandalay,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Union Govt's Support Income,1000
+Mandalay,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Ordinary Expenditure,565.622
+Mandalay,expenditure,"High Court, Advocate General, Auditor General",Region/State Hluttaw,Ordinary Expenditure,193.01
+Mandalay,expenditure,"High Court, Advocate General, Auditor General",Courts,Ordinary Expenditure,996.672
+Mandalay,expenditure,"High Court, Advocate General, Auditor General",Legal Offices,Ordinary Expenditure,519.901
+Mandalay,expenditure,"High Court, Advocate General, Auditor General",Accounting Offices,Ordinary Expenditure,905.771
+Mandalay,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Grants,3185.726
+Mandalay,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Capital Expenditure,1406
+Mandalay,expenditure,"High Court, Advocate General, Auditor General",Courts,Capital Expenditure,282.165
+Mandalay,expenditure,"High Court, Advocate General, Auditor General",Accounting Offices,Capital Expenditure,37.5
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Excise Revenue,Tax Revenue,2746.8
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Land Revenue,Tax Revenue,1789.385
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Forest,Tax Revenue,84.777
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Minerals ,Tax Revenue,11.08
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Lakes/streams tax,Tax Revenue,143.525
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,2480.223
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,6106.661
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State-Owned Enterprises,58.133
+Mandalay,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,13.93
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,3.774
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,31.643
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Small Enterprises,Other Income,5.865
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Water Resources Utilization Department,Other Income,145.709
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Agriculture Department,Other Income,10.8
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Industrial Crop Development Department,Other Income,16
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Fisheries Department,Other Income,107
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Other Income,29.149
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Bee Department,Other Income,3.06
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Forestry,Other Income,43.135
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Other Income,0.035
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Budget Department,Other Income,0.5
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Planning Department,Other Income,0.022
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Other Income,5.73
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Public Works,Other Income,45.666
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Central Inland Freight Handling Committee,Other Income,0.002
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Mandalay City Development Committee,Other Income,14256.913
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Other Income,8380.5
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Mandalay City Development Committee,Capital Income,16949.6
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Budget Department,Union Govt's Support Income,27119.08
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Budget Department,Borrowed Income,4891.533
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Ordinary Expenditure,5774.493
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Ordinary Expenditure,144.362
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Cooperative Department,Ordinary Expenditure,836.535
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Small Enterprises,Ordinary Expenditure,60.395
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Water Resources Utilization Department,Ordinary Expenditure,2585.338
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Agriculture Department,Ordinary Expenditure,1754.488
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Industrial Crop Development Department,Ordinary Expenditure,430.555
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Fisheries Department,Ordinary Expenditure,231.8
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Ordinary Expenditure,239.104
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Bee Department,Ordinary Expenditure,81.117
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Forestry,Ordinary Expenditure,1200.35
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Dry Zone Greening,Ordinary Expenditure,616.937
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Ordinary Expenditure,322.349
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Ordinary Expenditure,49.661
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Planning Department,Ordinary Expenditure,555.992
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Ordinary Expenditure,155.323
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Public Works,Ordinary Expenditure,8178.555
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Central Inland Freight Handling Committee,Ordinary Expenditure,32.479
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Mandalay City Development Committee,Ordinary Expenditure,20883.928
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Ordinary Expenditure,2642.273
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Grants,15
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Capital Expenditure,1596.976
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Capital Expenditure,19.76
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Cooperative Department,Capital Expenditure,2.92
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Small Enterprises,Capital Expenditure,2.18
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Agriculture Department,Capital Expenditure,15.269
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Fisheries Department,Capital Expenditure,11.794
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Forestry,Capital Expenditure,2.1
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Dry Zone Greening,Capital Expenditure,4.53
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Capital Expenditure,33.3
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Capital Expenditure,4.861
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Planning Department,Capital Expenditure,83.495
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Public Works,Capital Expenditure,2633.72
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Mandalay City Development Committee,Capital Expenditure,16685.578
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Capital Expenditure,12707.706
+Mandalay,expenditure,"Ministries, Administrative Departments, Municipals",Mandalay City Development Committee,Loans,200
+Mandalay,income,State Owned Enterprises,Myanma Motion Picture Enterprise,Other Income,114.921
+Mandalay,income,State Owned Enterprises,Myanma Salt & Marine Chemical Enterprise,Other Income,1.2
+Mandalay,income,State Owned Enterprises,Public Works,Other Income,10872.395
+Mandalay,expenditure,State Owned Enterprises,Myanma Motion Picture Enterprise,Ordinary Expenditure,142.985
+Mandalay,expenditure,State Owned Enterprises,Myanma Salt & Marine Chemical Enterprise,Ordinary Expenditure,2.148
+Mandalay,expenditure,State Owned Enterprises,Public Works,Ordinary Expenditure,10789.328
+Mon,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Other Income,2391.875
+Mon,income,"High Court, Advocate General, Auditor General",Courts,Other Income,8.889
+Mon,income,"High Court, Advocate General, Auditor General",Legal Offices,Other Income,0.157
+Mon,income,"High Court, Advocate General, Auditor General",Accounting Offices,Other Income,0.056
+Mon,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Ordinary Expenditure,238.063
+Mon,expenditure,"High Court, Advocate General, Auditor General",Region/State Hluttaw,Ordinary Expenditure,95.92
+Mon,expenditure,"High Court, Advocate General, Auditor General",Courts,Ordinary Expenditure,265.603
+Mon,expenditure,"High Court, Advocate General, Auditor General",Legal Offices,Ordinary Expenditure,145.595
+Mon,expenditure,"High Court, Advocate General, Auditor General",Accounting Offices,Ordinary Expenditure,332.869
+Mon,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Grants,2391.875
+Mon,expenditure,"High Court, Advocate General, Auditor General",Region/State Hluttaw,Capital Expenditure,15.33
+Mon,expenditure,"High Court, Advocate General, Auditor General",Courts,Capital Expenditure,63.43
+Mon,expenditure,"High Court, Advocate General, Auditor General",Legal Offices,Capital Expenditure,32
+Mon,expenditure,"High Court, Advocate General, Auditor General",Accounting Offices,Capital Expenditure,29.77
+Mon,income,"Ministries, Administrative Departments, Municipals",Excise Revenue,Tax Revenue,381.24
+Mon,income,"Ministries, Administrative Departments, Municipals",Land Revenue,Tax Revenue,748.95
+Mon,income,"Ministries, Administrative Departments, Municipals",Embankment Tax,Tax Revenue,0.683
+Mon,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Forest,Tax Revenue,181.388
+Mon,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Minerals ,Tax Revenue,6.475
+Mon,income,"Ministries, Administrative Departments, Municipals",Lakes/streams tax,Tax Revenue,128.042
+Mon,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,301.22
+Mon,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,55.664
+Mon,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State-Owned Enterprises,57.222
+Mon,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,7.137
+Mon,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,0.061
+Mon,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,1.149
+Mon,income,"Ministries, Administrative Departments, Municipals",Small Enterprises,Other Income,0.12
+Mon,income,"Ministries, Administrative Departments, Municipals",Water Resources Utilization Department,Other Income,0.556
+Mon,income,"Ministries, Administrative Departments, Municipals",Agriculture Department,Other Income,3
+Mon,income,"Ministries, Administrative Departments, Municipals",Industrial Crop Development Department,Other Income,1.56
+Mon,income,"Ministries, Administrative Departments, Municipals",Fisheries Department,Other Income,1.937
+Mon,income,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Other Income,2.074
+Mon,income,"Ministries, Administrative Departments, Municipals",Forestry,Other Income,5.205
+Mon,income,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Other Income,0.04
+Mon,income,"Ministries, Administrative Departments, Municipals",Planning Department,Other Income,0.014
+Mon,income,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Other Income,0.397
+Mon,income,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Other Income,4018.436
+Mon,income,"Ministries, Administrative Departments, Municipals",Budget Department,Union Govt's Support Income,14138.955
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Ordinary Expenditure,1619.125
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Ordinary Expenditure,83.697
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Cooperative Department,Ordinary Expenditure,251.811
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Small Enterprises,Ordinary Expenditure,18.536
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Water Resources Utilization Department,Ordinary Expenditure,150.114
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Agriculture Department,Ordinary Expenditure,698.308
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Industrial Crop Development Department,Ordinary Expenditure,264.382
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Fisheries Department,Ordinary Expenditure,97.668
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Ordinary Expenditure,85.96
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Forestry,Ordinary Expenditure,381.527
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Ordinary Expenditure,173.255
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Ordinary Expenditure,46.932
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Planning Department,Ordinary Expenditure,188.55
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Ordinary Expenditure,88.954
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Public Works,Ordinary Expenditure,4043.5
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Central Inland Freight Handling Committee,Ordinary Expenditure,9.68
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Ordinary Expenditure,1996.532
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Grants,15
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Capital Expenditure,807.607
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Capital Expenditure,35
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Cooperative Department,Capital Expenditure,17.6
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Small Enterprises,Capital Expenditure,0.18
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Agriculture Department,Capital Expenditure,38.45
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Fisheries Department,Capital Expenditure,34.595
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Forestry,Capital Expenditure,20.06
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Capital Expenditure,5.445
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Planning Department,Capital Expenditure,53.517
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Capital Expenditure,1.6
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Public Works,Capital Expenditure,5230.05
+Mon,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Capital Expenditure,2514.421
+Mon,income,State Owned Enterprises,Myanma Motion Picture Enterprise,Other Income,37.5
+Mon,income,State Owned Enterprises,Myanma Salt & Marine Chemical Enterprise,Other Income,17.157
+Mon,income,State Owned Enterprises,Public Works,Other Income,9276.001
+Mon,expenditure,State Owned Enterprises,Myanma Motion Picture Enterprise,Ordinary Expenditure,33.671
+Mon,expenditure,State Owned Enterprises,Myanma Salt & Marine Chemical Enterprise,Ordinary Expenditure,44.053
+Mon,expenditure,State Owned Enterprises,Public Works,Ordinary Expenditure,9112.925
+Rakhine,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Other Income,77.909
+Rakhine,income,"High Court, Advocate General, Auditor General",Courts,Other Income,32.228
+Rakhine,income,"High Court, Advocate General, Auditor General",Legal Offices,Other Income,0.133
+Rakhine,income,"High Court, Advocate General, Auditor General",Accounting Offices,Other Income,0.06
+Rakhine,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Union Govt's Support Income,1000
+Rakhine,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Ordinary Expenditure,6626.209
+Rakhine,expenditure,"High Court, Advocate General, Auditor General",Region/State Hluttaw,Ordinary Expenditure,516.74
+Rakhine,expenditure,"High Court, Advocate General, Auditor General",Courts,Ordinary Expenditure,537.179
+Rakhine,expenditure,"High Court, Advocate General, Auditor General",Legal Offices,Ordinary Expenditure,321.571
+Rakhine,expenditure,"High Court, Advocate General, Auditor General",Accounting Offices,Ordinary Expenditure,497.438
+Rakhine,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Grants,1000
+Rakhine,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Capital Expenditure,2518.797
+Rakhine,expenditure,"High Court, Advocate General, Auditor General",Region/State Hluttaw,Capital Expenditure,358.295
+Rakhine,expenditure,"High Court, Advocate General, Auditor General",Courts,Capital Expenditure,426.717
+Rakhine,expenditure,"High Court, Advocate General, Auditor General",Legal Offices,Capital Expenditure,117.686
+Rakhine,expenditure,"High Court, Advocate General, Auditor General",Accounting Offices,Capital Expenditure,50
+Rakhine,income,"Ministries, Administrative Departments, Municipals",Excise Revenue,Tax Revenue,167.149
+Rakhine,income,"Ministries, Administrative Departments, Municipals",Land Revenue,Tax Revenue,905.737
+Rakhine,income,"Ministries, Administrative Departments, Municipals",Embankment Tax,Tax Revenue,0.172
+Rakhine,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Forest,Tax Revenue,118.894
+Rakhine,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Minerals ,Tax Revenue,2.337
+Rakhine,income,"Ministries, Administrative Departments, Municipals",Lakes/streams tax,Tax Revenue,133.067
+Rakhine,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,126.063
+Rakhine,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,30.991
+Rakhine,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State-Owned Enterprises,445.617
+Rakhine,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,5.116
+Rakhine,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,0.042
+Rakhine,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,0.834
+Rakhine,income,"Ministries, Administrative Departments, Municipals",Small Enterprises,Other Income,0.694
+Rakhine,income,"Ministries, Administrative Departments, Municipals",Water Resources Utilization Department,Other Income,0.39
+Rakhine,income,"Ministries, Administrative Departments, Municipals",Industrial Crop Development Department,Other Income,1.2
+Rakhine,income,"Ministries, Administrative Departments, Municipals",Fisheries Department,Other Income,3.25
+Rakhine,income,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Other Income,3.868
+Rakhine,income,"Ministries, Administrative Departments, Municipals",Forestry,Other Income,4.2
+Rakhine,income,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Other Income,5.91
+Rakhine,income,"Ministries, Administrative Departments, Municipals",Planning Department,Other Income,0.021
+Rakhine,income,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Other Income,0.468
+Rakhine,income,"Ministries, Administrative Departments, Municipals",Public Works,Other Income,130
+Rakhine,income,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Other Income,3252.376
+Rakhine,income,"Ministries, Administrative Departments, Municipals",Budget Department,Union Govt's Support Income,46758.654
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Ordinary Expenditure,4168.785
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Ordinary Expenditure,108.672
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Cooperative Department,Ordinary Expenditure,437.689
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Small Enterprises,Ordinary Expenditure,17.064
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Water Resources Utilization Department,Ordinary Expenditure,49.8
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Agriculture Department,Ordinary Expenditure,769.902
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Industrial Crop Development Department,Ordinary Expenditure,202.719
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Fisheries Department,Ordinary Expenditure,290.635
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Ordinary Expenditure,126.104
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Forestry,Ordinary Expenditure,608.121
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Ordinary Expenditure,518.65
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Ordinary Expenditure,48.748
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Planning Department,Ordinary Expenditure,264.857
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Ordinary Expenditure,121.744
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Public Works,Ordinary Expenditure,25637.84
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Central Inland Freight Handling Committee,Ordinary Expenditure,12.081
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Ordinary Expenditure,1467.453
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Capital Expenditure,2260.468
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Capital Expenditure,27
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Cooperative Department,Capital Expenditure,35.99
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Small Enterprises,Capital Expenditure,0.76
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Agriculture Department,Capital Expenditure,143.274
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Industrial Crop Development Department,Capital Expenditure,87
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Fisheries Department,Capital Expenditure,119.5
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Capital Expenditure,22
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Forestry,Capital Expenditure,116.194
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Capital Expenditure,543.497
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Capital Expenditure,302.555
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Planning Department,Capital Expenditure,285.735
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Capital Expenditure,259.325
+Rakhine,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Capital Expenditure,1442.597
+Rakhine,income,State Owned Enterprises,Myanma Motion Picture Enterprise,Other Income,15.54
+Rakhine,income,State Owned Enterprises,Myanma Salt & Marine Chemical Enterprise,Other Income,28.85
+Rakhine,income,State Owned Enterprises,Public Works,Other Income,25639.84
+Rakhine,expenditure,State Owned Enterprises,Myanma Motion Picture Enterprise,Ordinary Expenditure,23.266
+Rakhine,expenditure,State Owned Enterprises,Myanma Salt & Marine Chemical Enterprise,Ordinary Expenditure,51.908
+Rakhine,expenditure,State Owned Enterprises,Public Works,Ordinary Expenditure,24458.51
+Rakhine,expenditure,State Owned Enterprises,Public Works,Capital Expenditure,890.535
+Sagaing,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Other Income,1292.606
+Sagaing,income,"High Court, Advocate General, Auditor General",Courts,Other Income,43.25
+Sagaing,income,"High Court, Advocate General, Auditor General",Legal Offices,Other Income,0.57
+Sagaing,income,"High Court, Advocate General, Auditor General",Accounting Offices,Other Income,0.19
+Sagaing,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Union Govt's Support Income,1000
+Sagaing,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Ordinary Expenditure,661.666
+Sagaing,expenditure,"High Court, Advocate General, Auditor General",Region/State Hluttaw,Ordinary Expenditure,364.261
+Sagaing,expenditure,"High Court, Advocate General, Auditor General",Courts,Ordinary Expenditure,771.905
+Sagaing,expenditure,"High Court, Advocate General, Auditor General",Legal Offices,Ordinary Expenditure,374.461
+Sagaing,expenditure,"High Court, Advocate General, Auditor General",Accounting Offices,Ordinary Expenditure,972.781
+Sagaing,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Grants,2292.606
+Sagaing,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Capital Expenditure,5519.139
+Sagaing,expenditure,"High Court, Advocate General, Auditor General",Region/State Hluttaw,Capital Expenditure,591.99
+Sagaing,expenditure,"High Court, Advocate General, Auditor General",Courts,Capital Expenditure,1.1
+Sagaing,expenditure,"High Court, Advocate General, Auditor General",Legal Offices,Capital Expenditure,0.8
+Sagaing,expenditure,"High Court, Advocate General, Auditor General",Accounting Offices,Capital Expenditure,11.4
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Excise Revenue,Tax Revenue,610.96
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Land Revenue,Tax Revenue,2721.221
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Embankment Tax,Tax Revenue,0.138
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Forest,Tax Revenue,224.694
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Minerals ,Tax Revenue,31.727
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Lakes/streams tax,Tax Revenue,400
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,473.674
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,207.219
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Budget Department,State-Owned Enterprises,192.736
+Sagaing,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,4.672
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,0.025
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,5.213
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Small Enterprises,Other Income,0.82
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Water Resources Utilization Department,Other Income,150.483
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Agriculture Department,Other Income,3.18
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Industrial Crop Development Department,Other Income,4.915
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Fisheries Department,Other Income,8.22
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Other Income,11.025
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Bee Department,Other Income,0.76
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Forestry,Other Income,19.475
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Dry Zone Greening,Other Income,0.309
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Other Income,0.05
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Budget Department,Other Income,0.95
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Planning Department,Other Income,0.069
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Other Income,7.976
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Public Works,Other Income,65
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Other Income,142.97
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Budget Department,Union Govt's Support Income,58923.394
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Budget Department,Borrowed Income,117.902
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Ordinary Expenditure,7829.714
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Ordinary Expenditure,120.564
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Cooperative Department,Ordinary Expenditure,1258.146
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Small Enterprises,Ordinary Expenditure,23.808
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Water Resources Utilization Department,Ordinary Expenditure,2331.465
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Agriculture Department,Ordinary Expenditure,1287.324
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Industrial Crop Development Department,Ordinary Expenditure,700.7
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Fisheries Department,Ordinary Expenditure,210.218
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Ordinary Expenditure,393.433
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Bee Department,Ordinary Expenditure,78.98
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Forestry,Ordinary Expenditure,1628.236
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Dry Zone Greening,Ordinary Expenditure,550.82
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Ordinary Expenditure,226.798
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Ordinary Expenditure,82.049
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Planning Department,Ordinary Expenditure,610.047
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Ordinary Expenditure,85.029
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Public Works,Ordinary Expenditure,29722.476
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Central Inland Freight Handling Committee,Ordinary Expenditure,33.551
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Ordinary Expenditure,3517.619
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Grants,20
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Capital Expenditure,2800.779
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Capital Expenditure,97.775
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Cooperative Department,Capital Expenditure,2061.592
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Small Enterprises,Capital Expenditure,0.18
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Agriculture Department,Capital Expenditure,14.6
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Industrial Crop Development Department,Capital Expenditure,286.55
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Fisheries Department,Capital Expenditure,155.7
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Dry Zone Greening,Capital Expenditure,4.53
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Capital Expenditure,2.899
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Capital Expenditure,175.96
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Planning Department,Capital Expenditure,7.315
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Capital Expenditure,1361.281
+Sagaing,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Capital Expenditure,5919.76
+Sagaing,income,State Owned Enterprises,Myanma Motion Picture Enterprise,Other Income,31.11
+Sagaing,income,State Owned Enterprises,Myanma Salt & Marine Chemical Enterprise,Other Income,6.062
+Sagaing,income,State Owned Enterprises,Public Works,Other Income,29732.426
+Sagaing,expenditure,State Owned Enterprises,Myanma Motion Picture Enterprise,Ordinary Expenditure,32.433
+Sagaing,expenditure,State Owned Enterprises,Myanma Salt & Marine Chemical Enterprise,Ordinary Expenditure,30.97
+Sagaing,expenditure,State Owned Enterprises,Public Works,Ordinary Expenditure,28913.67
+Sagaing,expenditure,State Owned Enterprises,Public Works,Capital Expenditure,296.8
+Shan,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Other Income,1811.783
+Shan,income,"High Court, Advocate General, Auditor General",Courts,Other Income,26.887
+Shan,income,"High Court, Advocate General, Auditor General",Legal Offices,Other Income,0.66
+Shan,income,"High Court, Advocate General, Auditor General",Accounting Offices,Other Income,5.989
+Shan,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Union Govt's Support Income,1000
+Shan,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Ordinary Expenditure,839.187
+Shan,expenditure,"High Court, Advocate General, Auditor General",Region/State Hluttaw,Ordinary Expenditure,384.592
+Shan,expenditure,"High Court, Advocate General, Auditor General",Courts,Ordinary Expenditure,803.412
+Shan,expenditure,"High Court, Advocate General, Auditor General",Legal Offices,Ordinary Expenditure,460.968
+Shan,expenditure,"High Court, Advocate General, Auditor General",Accounting Offices,Ordinary Expenditure,1118.418
+Shan,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Grants,2561.783
+Shan,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Capital Expenditure,997.453
+Shan,expenditure,"High Court, Advocate General, Auditor General",Courts,Capital Expenditure,252.623
+Shan,expenditure,"High Court, Advocate General, Auditor General",Accounting Offices,Capital Expenditure,44.919
+Shan,income,"Ministries, Administrative Departments, Municipals",Excise Revenue,Tax Revenue,415.681
+Shan,income,"Ministries, Administrative Departments, Municipals",Land Revenue,Tax Revenue,1139.507
+Shan,income,"Ministries, Administrative Departments, Municipals",Embankment Tax,Tax Revenue,28.18
+Shan,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Forest,Tax Revenue,157.018
+Shan,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Minerals ,Tax Revenue,11.798
+Shan,income,"Ministries, Administrative Departments, Municipals",Lakes/streams tax,Tax Revenue,6.55
+Shan,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,825.357
+Shan,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,251.013
+Shan,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State-Owned Enterprises,586.599
+Shan,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,19.596
+Shan,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,0.115
+Shan,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,1.309
+Shan,income,"Ministries, Administrative Departments, Municipals",Small Enterprises,Other Income,0.69
+Shan,income,"Ministries, Administrative Departments, Municipals",Water Resources Utilization Department,Other Income,2.14
+Shan,income,"Ministries, Administrative Departments, Municipals",Agriculture Department,Other Income,7
+Shan,income,"Ministries, Administrative Departments, Municipals",Industrial Crop Development Department,Other Income,31.725
+Shan,income,"Ministries, Administrative Departments, Municipals",Fisheries Department,Other Income,1.72
+Shan,income,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Other Income,8.11
+Shan,income,"Ministries, Administrative Departments, Municipals",Bee Department,Other Income,0.24
+Shan,income,"Ministries, Administrative Departments, Municipals",Forestry,Other Income,18.886
+Shan,income,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Other Income,0.002
+Shan,income,"Ministries, Administrative Departments, Municipals",Budget Department,Other Income,0.278
+Shan,income,"Ministries, Administrative Departments, Municipals",Planning Department,Other Income,0.175
+Shan,income,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Other Income,1.464
+Shan,income,"Ministries, Administrative Departments, Municipals",Public Works,Other Income,24.729
+Shan,income,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Other Income,10555.806
+Shan,income,"Ministries, Administrative Departments, Municipals",Budget Department,Union Govt's Support Income,86822.164
+Shan,income,"Ministries, Administrative Departments, Municipals",Budget Department,Borrowed Income,4439.883
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Ordinary Expenditure,9157.031
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Ordinary Expenditure,163.919
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Cooperative Department,Ordinary Expenditure,602.769
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Small Enterprises,Ordinary Expenditure,23.827
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Water Resources Utilization Department,Ordinary Expenditure,132.654
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Agriculture Department,Ordinary Expenditure,2408.568
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Industrial Crop Development Department,Ordinary Expenditure,416.2
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Fisheries Department,Ordinary Expenditure,69.426
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Ordinary Expenditure,326.43
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Bee Department,Ordinary Expenditure,66.164
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Forestry,Ordinary Expenditure,1429.17
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Ordinary Expenditure,263.303
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Ordinary Expenditure,186.451
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Planning Department,Ordinary Expenditure,704.84
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Ordinary Expenditure,191.13
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Public Works,Ordinary Expenditure,30633.755
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Central Inland Freight Handling Committee,Ordinary Expenditure,12.334
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Ordinary Expenditure,4906.402
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Grants,15
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Capital Expenditure,2191.847
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Capital Expenditure,2.508
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Cooperative Department,Capital Expenditure,35
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Small Enterprises,Capital Expenditure,2.36
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Agriculture Department,Capital Expenditure,1.4
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Industrial Crop Development Department,Capital Expenditure,149.52
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Fisheries Department,Capital Expenditure,58.6
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Capital Expenditure,16
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Forestry,Capital Expenditure,57.477
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Capital Expenditure,271.88
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Capital Expenditure,49.777
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Planning Department,Capital Expenditure,285.285
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Capital Expenditure,1370.1
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Public Works,Capital Expenditure,33372.825
+Shan,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Capital Expenditure,6506.098
+Shan,income,State Owned Enterprises,Myanma Motion Picture Enterprise,Other Income,44.095
+Shan,income,State Owned Enterprises,Myanma Salt & Marine Chemical Enterprise,Other Income,2.75
+Shan,income,State Owned Enterprises,Public Works,Other Income,63955.596
+Shan,expenditure,State Owned Enterprises,Myanma Motion Picture Enterprise,Ordinary Expenditure,39.34
+Shan,expenditure,State Owned Enterprises,Myanma Salt & Marine Chemical Enterprise,Ordinary Expenditure,16.816
+Shan,expenditure,State Owned Enterprises,Public Works,Ordinary Expenditure,62501.169
+Shan,expenditure,State Owned Enterprises,Public Works,Capital Expenditure,6104.675
+Tanintharyi,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Other Income,1033.583
+Tanintharyi,income,"High Court, Advocate General, Auditor General",Courts,Other Income,11.515
+Tanintharyi,income,"High Court, Advocate General, Auditor General",Legal Offices,Other Income,0.147
+Tanintharyi,income,"High Court, Advocate General, Auditor General",Accounting Offices,Other Income,0.054
+Tanintharyi,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Union Govt's Support Income,1000
+Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Ordinary Expenditure,1494.686
+Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Region/State Hluttaw,Ordinary Expenditure,95.201
+Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Courts,Ordinary Expenditure,273.34
+Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Legal Offices,Ordinary Expenditure,167.922
+Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Accounting Offices,Ordinary Expenditure,377.375
+Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Grants,1000
+Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Capital Expenditure,4661.33
+Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Courts,Capital Expenditure,513.991
+Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Accounting Offices,Capital Expenditure,105.558
+Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Excise Revenue,Tax Revenue,134.13
+Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Land Revenue,Tax Revenue,519.207
+Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Embankment Tax,Tax Revenue,0.051
+Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Tax for extraction from Forest,Tax Revenue,125.185
+Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Tax for extraction from Minerals ,Tax Revenue,0.832
+Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Lakes/streams tax,Tax Revenue,105.23
+Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Property Tax,Tax Revenue,276.915
+Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Wheel Tax,Tax Revenue,49.961
+Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State-Owned Enterprises,168.879
+Tanintharyi,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,6.455
+Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,0.015
+Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,0.341
+Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Water Resources Utilization Department,Other Income,0.555
+Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Agriculture Department,Other Income,0.065
+Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Fisheries Department,Other Income,47.556
+Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Other Income,0.985
+Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Forestry,Other Income,16.315
+Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Budget Department,Other Income,0.006
+Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Planning Department,Other Income,0.014
+Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Other Income,0.334
+Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Public Works,Other Income,5.6
+Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Other Income,2145.798
+Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Budget Department,Union Govt's Support Income,27399.452
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Ordinary Expenditure,2113.747
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Ordinary Expenditure,92.37
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",Cooperative Department,Ordinary Expenditure,207.789
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",Water Resources Utilization Department,Ordinary Expenditure,64.587
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",Agriculture Department,Ordinary Expenditure,407.702
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",Industrial Crop Development Department,Ordinary Expenditure,210.903
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",Fisheries Department,Ordinary Expenditure,231.361
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Ordinary Expenditure,109.288
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",Forestry,Ordinary Expenditure,481.95
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Ordinary Expenditure,151.515
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Ordinary Expenditure,46.848
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",Planning Department,Ordinary Expenditure,174.414
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Ordinary Expenditure,99.898
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",Public Works,Ordinary Expenditure,1472.119
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",Central Inland Freight Handling Committee,Ordinary Expenditure,10.736
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Ordinary Expenditure,1208.361
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Grants,15
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Capital Expenditure,613.192
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Capital Expenditure,234.216
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",Cooperative Department,Capital Expenditure,33.5
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",Industrial Crop Development Department,Capital Expenditure,70.836
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",Fisheries Department,Capital Expenditure,77.56
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Capital Expenditure,214.18
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Capital Expenditure,5.27
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",Planning Department,Capital Expenditure,5.17
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Capital Expenditure,2614.523
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",Public Works,Capital Expenditure,12086.42
+Tanintharyi,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Capital Expenditure,1363.044
+Tanintharyi,income,State Owned Enterprises,Myanma Motion Picture Enterprise,Other Income,11.941
+Tanintharyi,income,State Owned Enterprises,Public Works,Other Income,13560.539
+Tanintharyi,expenditure,State Owned Enterprises,Myanma Motion Picture Enterprise,Ordinary Expenditure,13.803
+Tanintharyi,expenditure,State Owned Enterprises,Public Works,Ordinary Expenditure,13136.876
+Tanintharyi,expenditure,State Owned Enterprises,Public Works,Capital Expenditure,196.2
+Yangon,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Other Income,411.136
+Yangon,income,"High Court, Advocate General, Auditor General",Courts,Other Income,78.001
+Yangon,income,"High Court, Advocate General, Auditor General",Legal Offices,Other Income,2.02
+Yangon,income,"High Court, Advocate General, Auditor General",Accounting Offices,Other Income,1.2
+Yangon,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Union Govt's Support Income,1000
+Yangon,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Ordinary Expenditure,579.778
+Yangon,expenditure,"High Court, Advocate General, Auditor General",Region/State Hluttaw,Ordinary Expenditure,390.136
+Yangon,expenditure,"High Court, Advocate General, Auditor General",Courts,Ordinary Expenditure,1331.475
+Yangon,expenditure,"High Court, Advocate General, Auditor General",Legal Offices,Ordinary Expenditure,706.992
+Yangon,expenditure,"High Court, Advocate General, Auditor General",Accounting Offices,Ordinary Expenditure,1441.259
+Yangon,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Grants,1411.136
+Yangon,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Capital Expenditure,10421.119
+Yangon,expenditure,"High Court, Advocate General, Auditor General",Region/State Hluttaw,Capital Expenditure,3
+Yangon,expenditure,"High Court, Advocate General, Auditor General",Courts,Capital Expenditure,1104.915
+Yangon,expenditure,"High Court, Advocate General, Auditor General",Legal Offices,Capital Expenditure,977.871
+Yangon,income,"Ministries, Administrative Departments, Municipals",Excise Revenue,Tax Revenue,2338.888
+Yangon,income,"Ministries, Administrative Departments, Municipals",Land Revenue,Tax Revenue,1062.312
+Yangon,income,"Ministries, Administrative Departments, Municipals",Embankment Tax,Tax Revenue,1.589
+Yangon,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Forest,Tax Revenue,110.097
+Yangon,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Minerals ,Tax Revenue,27.718
+Yangon,income,"Ministries, Administrative Departments, Municipals",Lakes/streams tax,Tax Revenue,480.658
+Yangon,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,4770.604
+Yangon,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,8830.692
+Yangon,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State-Owned Enterprises,2.298
+Yangon,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,20.692
+Yangon,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,0.027
+Yangon,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,21.395
+Yangon,income,"Ministries, Administrative Departments, Municipals",Small Enterprises,Other Income,5.18
+Yangon,income,"Ministries, Administrative Departments, Municipals",Water Resources Utilization Department,Other Income,113.645
+Yangon,income,"Ministries, Administrative Departments, Municipals",Agriculture Department,Other Income,0.88
+Yangon,income,"Ministries, Administrative Departments, Municipals",Fisheries Department,Other Income,70.587
+Yangon,income,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Other Income,23.31
+Yangon,income,"Ministries, Administrative Departments, Municipals",Bee Department,Other Income,0.24
+Yangon,income,"Ministries, Administrative Departments, Municipals",Forestry,Other Income,52.01
+Yangon,income,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Other Income,0.035
+Yangon,income,"Ministries, Administrative Departments, Municipals",Planning Department,Other Income,0.1
+Yangon,income,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Other Income,26.928
+Yangon,income,"Ministries, Administrative Departments, Municipals",Public Works,Other Income,5.5
+Yangon,income,"Ministries, Administrative Departments, Municipals",Central Inland Freight Handling Committee,Other Income,0.002
+Yangon,income,"Ministries, Administrative Departments, Municipals",Yangon City Development Committee,Other Income,45074.443
+Yangon,income,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Other Income,3255.095
+Yangon,income,"Ministries, Administrative Departments, Municipals",Yangon City Development Committee,Capital Income,64253.984
+Yangon,income,"Ministries, Administrative Departments, Municipals",Budget Department,Union Govt's Support Income,26120.497
+Yangon,income,"Ministries, Administrative Departments, Municipals",Budget Department,Borrowed Income,7810.181
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Ordinary Expenditure,4394.999
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Ordinary Expenditure,278.911
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Cooperative Department,Ordinary Expenditure,922.701
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Small Enterprises,Ordinary Expenditure,36.546
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Water Resources Utilization Department,Ordinary Expenditure,676.412
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Agriculture Department,Ordinary Expenditure,860.845
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Fisheries Department,Ordinary Expenditure,366.189
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Livestock Breeding and Veterinary Department,Ordinary Expenditure,127.151
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Bee Department,Ordinary Expenditure,16.771
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Forestry,Ordinary Expenditure,693.399
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Sports and Physical Education Department,Ordinary Expenditure,201.786
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Ordinary Expenditure,49.943
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Planning Department,Ordinary Expenditure,563.845
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Ordinary Expenditure,986.696
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Public Works,Ordinary Expenditure,1887.818
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Central Inland Freight Handling Committee,Ordinary Expenditure,34.606
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Yangon City Development Committee,Ordinary Expenditure,47902.808
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Ordinary Expenditure,2111.578
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Yangon City Development Committee,Expenses Paid for Interest,25.2
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Grants,14.5
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",General Administration Department,Capital Expenditure,9.33
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Capital Expenditure,3
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Fisheries Department,Capital Expenditure,34.291
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Budget Department,Capital Expenditure,5.61
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Human Settlement and Housing Development Department,Capital Expenditure,943.915
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Public Works,Capital Expenditure,500
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Yangon City Development Committee,Capital Expenditure,76881.231
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Development Affairs Organizations,Capital Expenditure,5171.58
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Yangon City Development Committee,Loans,171
+Yangon,expenditure,"Ministries, Administrative Departments, Municipals",Yangon City Development Committee,Organizational Investment,500
+Yangon,income,State Owned Enterprises,Myanma Motion Picture Enterprise,Other Income,279.464
+Yangon,income,State Owned Enterprises,Myanma Salt & Marine Chemical Enterprise,Other Income,41.914
+Yangon,income,State Owned Enterprises,Public Works,Other Income,2389.393
+Yangon,expenditure,State Owned Enterprises,Myanma Motion Picture Enterprise,Ordinary Expenditure,273.148
+Yangon,expenditure,State Owned Enterprises,Myanma Salt & Marine Chemical Enterprise,Ordinary Expenditure,106.218
+Yangon,expenditure,State Owned Enterprises,Public Works,Ordinary Expenditure,3563.007
