@@ -54,13 +54,52 @@ shinyServer(function(input, output) {
   
   
   #### Data Table Code ####  
-  output$budget_table <- renderDataTable({
-    datatable(full_data)
+  table_data <- reactive({
+    
+    # switches set appropriate values for 'All' selections
+    region_switched <- switch(input$table_region,
+                              All = unique(as.character(full_data$region)),
+                              input$table_region
+                              )
+    
+    flow_switched <- switch(input$table_flow,
+                              All = unique(as.character(full_data$flow)),
+                              input$table_flow
+                              )
+    
+    item_switched <- switch(input$table_budget_item,
+                            All = unique(as.character(full_data$budget_item)),
+                            input$table_budget_item
+                            )
+    
+    entity_switched <- switch(input$table_entity,
+                              All = unique(as.character(full_data$entity)),
+                              input$table_entity
+                              )
+    
+    # filter data for the table based on user input
+    filter(full_data,
+                         entity %in% entity_switched,
+                         region %in% region_switched,
+                         flow %in% flow_switched,
+                         budget_item %in% item_switched
+                         )
+  })
+    
+    output$budget_table <- renderDataTable({
+      datatable(table_data(), options = list(searching = FALSE))
   })
   
   #### Download Button Code ####  
-  output$download_data <- downloadHandler(
-    filename = 'Myanmar Budget Data.csv',
+  output$download_table_data <- downloadHandler(
+    filename = 'Myanmar Budget Data (Filtered).csv',
+    content = function(file) {
+      write.csv(table_data(), file)
+    }
+  )
+  
+  output$download_full_data <- downloadHandler(
+    filename = 'Myanmar Budget Data (Full).csv',
     content = function(file) {
       write.csv(full_data, file)
     }

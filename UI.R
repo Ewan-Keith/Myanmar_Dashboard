@@ -57,11 +57,42 @@ shinyUI(navbarPage("Myanmar Budget Dashboard", id = "nav",
                    
                    #### Data Table #####
                    tabPanel("Data Table",
+                            
+                            fluidRow(
+                              column(4, 
+                                     selectInput("table_region", 
+                                                 "State or Region:", 
+                                                 c("All", 
+                                                   unique(as.character(full_data$region))))
+                              ),
+                              
+                              column(4, 
+                                     selectInput("table_flow", 
+                                                 "Expenditure or Revenue:", 
+                                                 c("All", 
+                                                   unique(as.character(full_data$flow))))
+                              ),
+                              column(4, 
+                                     selectInput("table_budget_item", 
+                                                 "Subnational Entity", 
+                                                 c("All", 
+                                                   unique(as.character(full_data$budget_item))))
+                              ),        
+                              column(4, 
+                                     selectInput("table_entity", 
+                                                 "Budget Category", 
+                                                 c("All",  
+                                                   unique(as.character(full_data$entity))))
+                              )        
+                            ),
+                            
+                            
                             # add data table
                             dataTableOutput("budget_table"),
                             
-                            # add download button
-                            downloadButton('download_data', 'Download full budget data')
+                            # add filtered and full download buttons
+                            downloadButton('download_table_data', 'Download table budget data'),
+                            downloadButton('download_full_data', 'Download full budget data')
                    )
 )                   
 )
