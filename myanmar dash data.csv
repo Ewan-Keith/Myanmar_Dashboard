@@ -74,7 +74,7 @@ Bago,income,"High Court, Advocate General, Auditor General",Courts,Other Income,
 Bago,income,"High Court, Advocate General, Auditor General",Legal Offices,Other Income,0.553
 Bago,income,"High Court, Advocate General, Auditor General",Accounting Offices,Other Income,0.556
 Bago,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Capital Income,1000
-Bago,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Capital Income,1000
+Bago,income,"High Court, Advocate General, Auditor General",Region/State Cabinet,Union Govt's Support Income,1000
 Bago,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Ordinary Expenditure,451.988
 Bago,expenditure,"High Court, Advocate General, Auditor General",Region/State Hluttaw,Ordinary Expenditure,199.287
 Bago,expenditure,"High Court, Advocate General, Auditor General",Courts,Ordinary Expenditure,754.976
@@ -933,14 +933,14 @@ Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Region/S
 Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Region/State Cabinet,Capital Expenditure,4661.33
 Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Courts,Capital Expenditure,513.991
 Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Accounting Offices,Capital Expenditure,105.558
-Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Excise Revenue,Tax Revenue,134.13
-Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Land Revenue,Tax Revenue,519.207
-Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Embankment Tax,Tax Revenue,0.051
-Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Tax for extraction from Forest,Tax Revenue,125.185
-Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Tax for extraction from Minerals ,Tax Revenue,0.832
-Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Lakes/streams tax,Tax Revenue,105.23
-Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Property Tax,Tax Revenue,276.915
-Tanintharyi,expenditure,"High Court, Advocate General, Auditor General",Wheel Tax,Tax Revenue,49.961
+Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Excise Revenue,Tax Revenue,134.13
+Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Land Revenue,Tax Revenue,519.207
+Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Embankment Tax,Tax Revenue,0.051
+Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Forest,Tax Revenue,125.185
+Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Minerals ,Tax Revenue,0.832
+Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Lakes/streams tax,Tax Revenue,105.23
+Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,276.915
+Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,49.961
 Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State-Owned Enterprises,168.879
 Tanintharyi,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,6.455
 Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,0.015

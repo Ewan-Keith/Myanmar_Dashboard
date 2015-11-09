@@ -39,11 +39,12 @@ shinyUI(navbarPage("Myanmar Budget Dashboard", id = "nav",
                    #### Flow Breakdown #####
                    tabPanel("Flow Breakdown",
                             fluidPage(
-                              column(2, 
+                              column(3, 
+                                     wellPanel(
                               selectInput('entity_select', 'Select Budget Entity', income_budget_entity_table,
-                                          width = 375)),
+                                          width = 375))),
                              
-                              
+                              column(9,
                               fluidRow(
                                 showOutput("FB_income_chart", "nvd3")
                               ),
@@ -52,7 +53,7 @@ shinyUI(navbarPage("Myanmar Budget Dashboard", id = "nav",
                             
                             fluidRow(
                               showOutput("FB_expenditure_chart", "nvd3")
-                            )
+                            ))
                    )
                    ),
                    
