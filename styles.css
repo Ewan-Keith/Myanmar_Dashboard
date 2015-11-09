@@ -1,0 +1,23 @@
+div.inner {
+  position: fixed;
+  top: 120px;
+  left: 240px;
+  right: 240px;
+  bottom: 80px;
+  overflow: hidden;
+  padding: 0;
+  background-color: white;
+  border-radius: 15px;
+}
+
+div.outer {
+  /* This sets a 'box' in the screen to take up the whole screen which the map can fill */
+  position: fixed;
+  top: 41px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  overflow: hidden;
+  padding: 0;
+  opacity: 0.2;
+}

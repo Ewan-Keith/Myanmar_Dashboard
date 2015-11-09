@@ -16,7 +16,18 @@ income_budget_entity_table <- unique(income_data$entity)
 shinyUI(navbarPage("Myanmar Budget Dashboard", id = "nav",
                    
                    #### Front Page ####                       
-                   tabPanel("Front Page"        
+                   tabPanel("Front Page",
+                            
+                            div(class="outer",
+                                
+                                img(src="Myanmar_Flag.png", width="100%", height="100%"),
+                                
+                                div(class="inner",
+                                    tags$head(
+                                      includeCSS("styles.css")
+                                      )
+                                )
+                            )
                             
                    ),
                    

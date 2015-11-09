@@ -1,6 +1,7 @@
 # load necessary packages
 library(shiny) # underlies the whole application
 library(dplyr) # used for data handling
+library(tidyr) # used for tidying some data for presentation
 library(rCharts) # used for interactive charts, not hosted on CRAN so must be installed from github, see http://ramnathv.github.io/rCharts/
 library(DT) # used for interactive tables
 
@@ -10,13 +11,20 @@ income_data <- filter(full_data, flow == 'income')
 expenditure_data <- filter(full_data, flow == 'expenditure')
 
 
+
+
 shinyServer(function(input, output) {
   
   #### Flow Breakdown Code ####
   
   output$FB_income_chart <- renderChart2({
     
-    FB_income_data <- filter(income_data, entity == input$entity_select)
+    FB_income_data <- income_data %>% 
+      filter(entity == input$entity_select) %>% 
+      group_by(region, source) %>% 
+      summarise(value = sum(value)) %>%
+      ungroup() %>% 
+      complete(region, source, fill = list(value = 0))
     
     FB_rchart <- nPlot(value ~ region, group = 'source', 
                        data = FB_income_data, 
@@ -29,13 +37,20 @@ shinyServer(function(input, output) {
     FB_rchart$set(title = "Income")
     FB_rchart$params$width <- 1000
     FB_rchart$params$height <- 300
+    FB_rchart$chart(stacked = TRUE)
     
     return(FB_rchart)
   })
   
   output$FB_expenditure_chart <- renderChart2({
     
-    FB_expenditure_data <- filter(expenditure_data, entity == input$entity_select)
+    FB_expenditure_data <- expenditure_data %>%
+      filter(entity == input$entity_select) %>% 
+      group_by(region, source) %>% 
+      summarise(value = sum(value)) %>%
+      ungroup() %>% 
+      complete(region, source, fill = list(value = 0))
+      
     
     FB_rchart <- nPlot(value ~ region, group = 'source', 
                        data = FB_expenditure_data, 
@@ -48,6 +63,7 @@ shinyServer(function(input, output) {
     FB_rchart$set(title = "Expenditure")
     FB_rchart$params$width <- 1000
     FB_rchart$params$height <- 300
+    FB_rchart$chart(stacked = TRUE)
     
     return(FB_rchart)
   })
