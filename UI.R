@@ -42,14 +42,18 @@ shinyUI(navbarPage("Myanmar Budget Dashboard", id = "nav",
                               column(3, 
                                      wellPanel(
                               selectInput('entity_select', 'Select Budget Entity', income_budget_entity_table,
-                                          width = 375))),
+                                          width = 375),
+                              
+                              "details on the charts to the right and comments on what 'entities' and 'sources' are can go here"
+                              
+                              )),
                              
                               column(9,
                               fluidRow(
                                 showOutput("FB_income_chart", "nvd3")
                               ),
                               
-                              hr(),
+                              hr(), # this white line adds neccesary space to seperate the two plots
                             
                             fluidRow(
                               showOutput("FB_expenditure_chart", "nvd3")

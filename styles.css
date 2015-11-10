@@ -21,3 +21,7 @@ div.outer {
   padding: 0;
   opacity: 0.2;
 }
+
+hr {
+border-color: white;
+}
