@@ -8,69 +8,63 @@ library(ggplot2)
 library(ggthemes)
 
 #### Define Region/State allocation function for use later ####
-region_state <- function(raw_data){
-  
-  for(i in 1:nrow(raw_data)){
-    
-    if(raw_data[i,"region"] == "Ayeyawady"){
+region_state <- function(raw_data) {
+  for (i in 1:nrow(raw_data)) {
+    if (raw_data[i,"region"] == "Ayeyawady") {
       raw_data[i,"region"] <- "Ayeyawady Region"
     }
     
-    if(raw_data[i,"region"] == "Bago"){
+    else if (raw_data[i,"region"] == "Bago") {
       raw_data[i,"region"] <- "Bago Region"
     }
     
-    
-    if(raw_data[i,"region"] == "Chin"){
+    else if (raw_data[i,"region"] == "Chin") {
       raw_data[i,"region"] <- "Chin State"
     }
     
-    if(raw_data[i,"region"] == "Kachin"){
+    else if (raw_data[i,"region"] == "Kachin") {
       raw_data[i,"region"] <- "Kachin State"
     }
     
-    if(raw_data[i,"region"] == "Kayah"){
+    else if (raw_data[i,"region"] == "Kayah") {
       raw_data[i,"region"] <- "Kayah State"
     }
     
-    if(raw_data[i,"region"] == "Kayin"){
+    else if (raw_data[i,"region"] == "Kayin") {
       raw_data[i,"region"] <- "Kayin State"
     }
     
-    if(raw_data[i,"region"] == "Magway"){
+    else if (raw_data[i,"region"] == "Magway") {
       raw_data[i,"region"] <- "Magway Region"
     }
     
-    if(raw_data[i,"region"] == "Mandalay"){
+    else if (raw_data[i,"region"] == "Mandalay") {
       raw_data[i,"region"] <- "Mandalay Region"
     }
     
-    if(raw_data[i,"region"] == "Mon"){
+    else if (raw_data[i,"region"] == "Mon") {
       raw_data[i,"region"] <- "Mon State"
     }
     
-    if(raw_data[i,"region"] == "Rakhine"){
+    else if (raw_data[i,"region"] == "Rakhine") {
       raw_data[i,"region"] <- "Rakhine State"
     }
     
-    if(raw_data[i,"region"] == "Sagaing"){
+    else if (raw_data[i,"region"] == "Sagaing") {
       raw_data[i,"region"] <- "Sagaing Region"
     }
     
-    if(raw_data[i,"region"] == "Shan"){
+    else if (raw_data[i,"region"] == "Shan") {
       raw_data[i,"region"] <- "Shan State"
     }
     
-    if(raw_data[i,"region"] == "Tanintharyi"){
+    else if (raw_data[i,"region"] == "Tanintharyi") {
       raw_data[i,"region"] <- "Tanintharyi Region"
     }
     
-    if(raw_data[i,"region"] == "Yangon"){
+    else if (raw_data[i,"region"] == "Yangon") {
       raw_data[i,"region"] <- "Yangon Region"
     }
-    
-    
-    
     
   }
   raw_data
