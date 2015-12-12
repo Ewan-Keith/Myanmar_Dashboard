@@ -93,7 +93,7 @@ Bago,income,"Ministries, Administrative Departments, Municipals",Tax for extract
 Bago,income,"Ministries, Administrative Departments, Municipals",Lakes/streams tax,Tax Revenue,901.363
 Bago,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,494.873
 Bago,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,193.791
-Bago,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State-Owned Enterprises,98.289
+Bago,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State Owned Enterprises,98.289
 Bago,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,6.21
 Bago,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,0.016
 Bago,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,4.001
@@ -170,7 +170,7 @@ Chin,income,"Ministries, Administrative Departments, Municipals",Tax for extract
 Chin,income,"Ministries, Administrative Departments, Municipals",Tax for extraction from Minerals ,Tax Revenue,0.088
 Chin,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,67.556
 Chin,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,5.544
-Chin,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State-Owned Enterprises,139.635
+Chin,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State Owned Enterprises,139.635
 Chin,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,3.404
 Chin,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,0.034
 Chin,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,0.016
@@ -238,7 +238,7 @@ Kachin,income,"Ministries, Administrative Departments, Municipals",Tax for extra
 Kachin,income,"Ministries, Administrative Departments, Municipals",Lakes/streams tax,Tax Revenue,117.585
 Kachin,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,447.87
 Kachin,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,78.215
-Kachin,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State-Owned Enterprises,131.653
+Kachin,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State Owned Enterprises,131.653
 Kachin,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,6.965
 Kachin,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,0.032
 Kachin,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,2.865
@@ -316,7 +316,7 @@ Kayah,income,"Ministries, Administrative Departments, Municipals",Tax for extrac
 Kayah,income,"Ministries, Administrative Departments, Municipals",Lakes/streams tax,Tax Revenue,0.558
 Kayah,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,45.823
 Kayah,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,8.933
-Kayah,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State-Owned Enterprises,105.786
+Kayah,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State Owned Enterprises,105.786
 Kayah,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,0.865
 Kayah,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,0.029
 Kayah,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,0.607
@@ -385,7 +385,7 @@ Kayin,income,"Ministries, Administrative Departments, Municipals",Tax for extrac
 Kayin,income,"Ministries, Administrative Departments, Municipals",Lakes/streams tax,Tax Revenue,26.037
 Kayin,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,92.979
 Kayin,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,7.506
-Kayin,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State-Owned Enterprises,37.063
+Kayin,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State Owned Enterprises,37.063
 Kayin,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,8.335
 Kayin,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,0.042
 Kayin,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,0.016
@@ -459,7 +459,7 @@ Magway,income,"Ministries, Administrative Departments, Municipals",Tax for extra
 Magway,income,"Ministries, Administrative Departments, Municipals",Lakes/streams tax,Tax Revenue,36.45
 Magway,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,311.428
 Magway,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,108.093
-Magway,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State-Owned Enterprises,153.136
+Magway,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State Owned Enterprises,153.136
 Magway,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,4.428
 Magway,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,0.023
 Magway,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,6.579
@@ -534,7 +534,7 @@ Mandalay,income,"Ministries, Administrative Departments, Municipals",Tax for ext
 Mandalay,income,"Ministries, Administrative Departments, Municipals",Lakes/streams tax,Tax Revenue,143.525
 Mandalay,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,2480.223
 Mandalay,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,6106.661
-Mandalay,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State-Owned Enterprises,58.133
+Mandalay,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State Owned Enterprises,58.133
 Mandalay,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,13.93
 Mandalay,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,3.774
 Mandalay,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,31.643
@@ -621,7 +621,7 @@ Mon,income,"Ministries, Administrative Departments, Municipals",Tax for extracti
 Mon,income,"Ministries, Administrative Departments, Municipals",Lakes/streams tax,Tax Revenue,128.042
 Mon,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,301.22
 Mon,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,55.664
-Mon,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State-Owned Enterprises,57.222
+Mon,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State Owned Enterprises,57.222
 Mon,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,7.137
 Mon,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,0.061
 Mon,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,1.149
@@ -697,7 +697,7 @@ Rakhine,income,"Ministries, Administrative Departments, Municipals",Tax for extr
 Rakhine,income,"Ministries, Administrative Departments, Municipals",Lakes/streams tax,Tax Revenue,133.067
 Rakhine,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,126.063
 Rakhine,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,30.991
-Rakhine,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State-Owned Enterprises,445.617
+Rakhine,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State Owned Enterprises,445.617
 Rakhine,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,5.116
 Rakhine,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,0.042
 Rakhine,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,0.834
@@ -775,7 +775,7 @@ Sagaing,income,"Ministries, Administrative Departments, Municipals",Tax for extr
 Sagaing,income,"Ministries, Administrative Departments, Municipals",Lakes/streams tax,Tax Revenue,400
 Sagaing,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,473.674
 Sagaing,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,207.219
-Sagaing,income,"Ministries, Administrative Departments, Municipals",Budget Department,State-Owned Enterprises,192.736
+Sagaing,income,"Ministries, Administrative Departments, Municipals",Budget Department,State Owned Enterprises,192.736
 Sagaing,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,4.672
 Sagaing,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,0.025
 Sagaing,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,5.213
@@ -858,7 +858,7 @@ Shan,income,"Ministries, Administrative Departments, Municipals",Tax for extract
 Shan,income,"Ministries, Administrative Departments, Municipals",Lakes/streams tax,Tax Revenue,6.55
 Shan,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,825.357
 Shan,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,251.013
-Shan,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State-Owned Enterprises,586.599
+Shan,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State Owned Enterprises,586.599
 Shan,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,19.596
 Shan,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,0.115
 Shan,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,1.309
@@ -941,7 +941,7 @@ Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Tax for 
 Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Lakes/streams tax,Tax Revenue,105.23
 Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,276.915
 Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,49.961
-Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State-Owned Enterprises,168.879
+Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State Owned Enterprises,168.879
 Tanintharyi,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,6.455
 Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,0.015
 Tanintharyi,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,0.341
@@ -1012,7 +1012,7 @@ Yangon,income,"Ministries, Administrative Departments, Municipals",Tax for extra
 Yangon,income,"Ministries, Administrative Departments, Municipals",Lakes/streams tax,Tax Revenue,480.658
 Yangon,income,"Ministries, Administrative Departments, Municipals",Property Tax,Tax Revenue,4770.604
 Yangon,income,"Ministries, Administrative Departments, Municipals",Wheel Tax,Tax Revenue,8830.692
-Yangon,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State-Owned Enterprises,2.298
+Yangon,income,"Ministries, Administrative Departments, Municipals",Revenue from Regional State Owned Enterprises,State Owned Enterprises,2.298
 Yangon,income,"Ministries, Administrative Departments, Municipals",General Administration Department,Other Income,20.692
 Yangon,income,"Ministries, Administrative Departments, Municipals",Special Investigation Department,Other Income,0.027
 Yangon,income,"Ministries, Administrative Departments, Municipals",Cooperative Department,Other Income,21.395

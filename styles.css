@@ -22,6 +22,7 @@ div.outer {
   opacity: 0.2;
 }
 
-hr {
-border-color: white;
+p.disclaim{
+color: #595959;
+font-size: 12px;
 }
