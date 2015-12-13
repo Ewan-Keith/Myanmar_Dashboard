@@ -2,7 +2,6 @@
 library(shiny)
 library(rCharts) # used for interactive charts, not hosted on CRAN so must be installed from github, see http://ramnathv.github.io/rCharts/
 library(dplyr) # used for data handling
-library(shinydashboard)
 library(DT) # used for interactive tables
 
 #### read and prepare data ####
@@ -19,21 +18,21 @@ income_budget_item_table <- unique(income_data$budget_item)
 #### preset Disclaimer Text for use on each tab ####
 
 disclaimer <- tagList(
-  p(
-    "Figures presented are budgeted amounts published in Myanmar's 2013-14 state and region budget
-    laws. Because numbers represent budgeted amounts rather than actuals and should be interpreted with caution.",
-    class = 'disclaim'
-  ),
+  
+  p(""),
+  
+  p(""),
   
   p(
-    "Users interested in a more detailed treatment of the topic are directed towards",
+    "Figures presented are budgeted amounts published in Myanmar's 2013-14 state and region budget
+    laws. Because numbers represent budgeted amounts rather than actuals and should be interpreted
+    with caution. Users interested in a more detailed treatment of the topic are directed towards",
     a("State and Region Public Finances in Myanmar",
       href = "http://asiafoundation.org/publications/pdf/1544"),
-    "by Dickenson-Jones, Giles, S Kanay De, and Andrea Smurra.",
     class = 'disclaim'
   )
   
-)
+  )
 
 #### setup a toolbar shiny page ####
 
@@ -79,9 +78,7 @@ shinyUI(
                  used in published budgets."
                ),
                
-               hr(),
-               
-               disclaimer
+               hr()
                
                )),
       
@@ -92,7 +89,12 @@ shinyUI(
         
         fluidRow(box(plotOutput("top_income_items")),
                  
-                 box(plotOutput("top_exp_items")))
+                 box(plotOutput("top_exp_items"))),
+        
+        
+        hr(),
+        
+        fluidRow(disclaimer)
       )
       ),
 
@@ -111,9 +113,8 @@ shinyUI(
                           and income for the 2013-14 financial year by classification (in millions of kyat)."
                         ),
                         
-                        hr(),
+                        hr()
                         
-                        disclaimer
                         )),
                
                column(9,
@@ -127,7 +128,14 @@ shinyUI(
                       
                       fluidRow(
                         showOutput("item_expenditure_chart", "nvd3")
-                      ))
+                      ),
+                      
+                      br(),
+                      br(),
+                      
+                      fluidRow(disclaimer)
+                      
+                      )
              )),
 
 #### Data Table #####
