@@ -3,6 +3,7 @@ library(shiny)
 library(rCharts) # used for interactive charts, not hosted on CRAN so must be installed from github, see http://ramnathv.github.io/rCharts/
 library(dplyr) # used for data handling
 library(DT) # used for interactive tables
+library(shinydashboard) # used for the 'boxes' around several plots
 
 #### read and prepare data ####
 
@@ -30,7 +31,9 @@ disclaimer <- tagList(
     a("State and Region Public Finances in Myanmar",
       href = "http://asiafoundation.org/publications/pdf/1544"),
     class = 'disclaim'
-  )
+  ), 
+  
+  tags$head(includeCSS("styles.css"))
   
   )
 
@@ -40,22 +43,6 @@ shinyUI(
   navbarPage(
     "Myanmar Budget Dashboard", id = "nav",
 
-#### Front Page ####
-    
-    ## set up frontpage - NOT COMPLETE AND MAY NOT BE USED IN FINAL PRODUCT
-    
-    tabPanel("Front Page",
-             
-             div(
-               class = "outer",
-               
-               img(
-                 src = "Myanmar_Flag.png", width = "100%", height = "100%"
-               ),
-               
-               div(class = "inner",
-                   tags$head(includeCSS("styles.css")))
-             )),
 
 #### Regional Summary Tab #####
     

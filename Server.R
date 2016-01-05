@@ -141,7 +141,7 @@ shinyServer(function(input, output, session) {
       )
     
     # return top ten income barchart
-    print(top_plot)
+    return(top_plot)
     
   })
   
